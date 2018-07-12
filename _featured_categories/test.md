@@ -5,6 +5,5 @@ slug: devlog
 menu: true
 submenu: true
 order: 9
-description: >
-abcd
+description: abcd
 ---
